@@ -34,7 +34,7 @@ Side note: I'm learning python myself, so i may occasionally make some programmi
 
 ## Here I'm
 
-* [Instagram](https://www.instagram.com/programmer_python_/) 
+* [Instagram](https://www.instagram.com/pythonistas/) 
 * [Twitter](https://twitter.com/AakashPadhiyar9) 
 * [Linkedin](https://www.linkedin.com/in/aakash-padhiyar-8711aa182/) 
 
