@@ -29,3 +29,16 @@ This is a python project to help show how python works!:
 ```
 
 Side note: I'm learning python myself, so i may occasionally make some programming mistakes! Bear with me! :')
+
+
+
+## Here I'm
+
+* [Instagram](https://www.instagram.com/programmer_python_/) 
+* [Twitter](https://twitter.com/AakashPadhiyar9) 
+* [Linkedin](https://www.linkedin.com/in/aakash-padhiyar-8711aa182/) 
+
+# Information
+
+## BY aakashpadhiyar
+## 8140171224
